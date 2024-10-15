@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  grafana:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-10-15T07:53:52.622769665Z"
+    description: A Helm chart for grafana
+    digest: 1feb1452e592c572f6ebc36d2eec538c8928a72918053fe642fbbb03b6eab59d
+    name: grafana
+    type: application
+    urls:
+    - grafana-0.0.1.tgz
+    version: 0.0.1
+  istio-gateway-grafana:
+  - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2024-10-15T07:53:52.624862623Z"
+    digest: 67e01f1c8050cb4374c60e9a77fab005f65865286192594be0255fd6441036f0
+    name: istio-gateway-grafana
+    type: application
+    urls:
+    - istio-gateway-grafana-0.0.2.tgz
+    version: 0.0.2
+generated: "2024-10-15T07:53:52.621004678Z"
